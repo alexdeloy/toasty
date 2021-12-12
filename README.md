@@ -1,4 +1,4 @@
- Toasty
+# Toasty
 Zero dependency notifications in Vanilla JS
 
 ## Installation 
